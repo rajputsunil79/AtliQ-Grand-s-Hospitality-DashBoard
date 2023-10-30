@@ -19,11 +19,11 @@ Live DashBoard Link: https://app.powerbi.com/view?r=eyJrIjoiYTRiYjYyYTItMzUzYi00
      _[DURN] - Daily Utilized Room Nights_,        
       _[RevPAR] - Revenue Per Available Room_,
 
-     _[Realisation %] - It is the successful **Checked Out** percentage over all Bookings happened_,  
+     _[Realisation %] - It is the successful **Checked Out** percentage to all the Bookings happened_,  
       _[Occupancy %] - Total Successful Bookings happened to the Total Rooms Available **(Capacity)**_,   
-     _[Cancellation %] - Total Cancellations happened to the TOtal Bookings_,   
+     _[Cancellation %] - Total Cancellations happened to the Total Bookings_,   
       _[Day Type] - Whether it was Weekday or Weekend_,    
-      _[Avg Rating] - Avg Rating of the Property_.
+      _[Avg Rating] - Avg. Rating of the Property_.
 
    - Create Tooltips wherever required.
 #
@@ -35,6 +35,7 @@ Live DashBoard Link: https://app.powerbi.com/view?r=eyJrIjoiYTRiYjYyYTItMzUzYi00
 
   - Created Donut Charts for
      - Revenue by Category i.e. Business or Luxury,
+       
        ![Screenshot 2023-10-30 194218](https://github.com/rajputsunil79/AtliQ-Grand-s-Hospitality-DashBoard/assets/147989244/859584a7-0d9b-4506-a6ec-358e42c9a85b)
        
      - Occupancy % by City.
@@ -51,6 +52,8 @@ Live DashBoard Link: https://app.powerbi.com/view?r=eyJrIjoiYTRiYjYyYTItMzUzYi00
   - Created a Data Metrics Table which includes all the important information regarding properties, Booking Details, Revenue Metrics Etc.
     ![Screenshot 2023-10-30 194428](https://github.com/rajputsunil79/AtliQ-Grand-s-Hospitality-DashBoard/assets/147989244/16cad47b-229e-4ab0-8f4e-b52db9146d2d)
 
+# Tooltip View :
+![Screenshot 2023-10-30 202956](https://github.com/rajputsunil79/AtliQ-Grand-s-Hospitality-DashBoard/assets/147989244/b4a41b65-25e1-4e1b-82aa-6dee62f01c8f)
 
 
 
